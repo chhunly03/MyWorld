@@ -6,6 +6,10 @@ public class Main {
         System.out.print("Input name: ");
         String name=sc.next();
         System.out.print("Name is ");
-        System.out.print(name);
+        System.out.println(name);
+        System.out.print("Input ID: ");
+        String ID=sc.next();
+        System.out.print("ID is ");
+        System.out.print(ID);
     }
 }
